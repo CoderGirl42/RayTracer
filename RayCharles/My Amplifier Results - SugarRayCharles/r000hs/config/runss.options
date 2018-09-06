@@ -1,0 +1,16 @@
+-r
+C:\Users\maris\Documents\Visual Studio 2017\Projects\RayCharles\RayCharles\My Amplifier Results - SugarRayCharles\r000hs
+--stack-stitching
+--data-limit-mb=500
+--disk-space-limit=0
+--mrte-type=java,dotnet,python
+--itt-config=openmp
+--itt-config=frame
+--itt-config=task,event,counter
+--stackwalk=offline
+--mrte-mode=auto
+--type=cpu:counters:nostack
+--type=cpu:stack
+--interval=1
+--
+C:\Users\maris\Documents\Visual Studio 2017\Projects\RayCharles\x64\Release\SugarRayCharles.exe
